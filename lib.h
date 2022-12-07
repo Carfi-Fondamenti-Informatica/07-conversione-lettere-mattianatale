@@ -1,3 +1,3 @@
 
- bool carattere (char &a);
+ bool lettera (char &a);
 
