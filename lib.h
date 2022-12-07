@@ -1,2 +1,1 @@
- 
-bool lettera(char &a);
+ bool lettera(char &a);
