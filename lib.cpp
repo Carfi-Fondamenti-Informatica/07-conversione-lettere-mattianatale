@@ -17,3 +17,4 @@ bool lettera(char &a){
     else
         return false;
 }
+
